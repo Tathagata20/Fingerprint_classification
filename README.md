@@ -24,6 +24,8 @@ Matplotlib, Seaborn – Data Visualization
 Jupyter Notebook – Model Training & Experimentation
 
 ## Dataset
+- <a href="[https://www.kaggle.com/datasets/ruizgara/socofing">Festival_Sales_Dataset</a>
+
 
 ## Model Workflow
 Data Preprocessing – Image resizing, normalization, augmentation.
