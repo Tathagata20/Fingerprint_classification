@@ -24,7 +24,7 @@ Matplotlib, Seaborn – Data Visualization
 Jupyter Notebook – Model Training & Experimentation
 
 ## Dataset
-- <a href="[https://www.kaggle.com/datasets/ruizgara/socofing">Festival_Sales_Dataset</a>
+- <a href="https://www.kaggle.com/datasets/ruizgara/socofing">Fingerprint_Dataset</a>
 
 
 ## Model Workflow
